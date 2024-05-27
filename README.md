@@ -8,7 +8,9 @@ We believe that this models may be a good starting point for future research in 
 
 The EfficientNet Models were trained using transfer learning from pre-trained models on ImageNet 2012.
 
-Models can be found here: [https://github.com/jacluas/Mexico120FlowerModel/releases](https://github.com/jacluas/Mexico120FlowerModel/releases)
+Models can be found here: [https://github.com/jacluas/PlantCLEF2018200FlowerModels/releases/tag/Release](https://github.com/jacluas/PlantCLEF2018200FlowerModels/releases/tag/Release)
+
+https://github.com/jacluas/PlantCLEF2018200FlowerModels/releases/tag/Release
 
 ### How to consume the pre-trained EfficientNet models (from PlantCLEF 2018 200 Flower dataset)
 
