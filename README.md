@@ -24,7 +24,7 @@ You can evaluate a sample image by performing the following:
 ```python
 python predict.py MODEL_NAME MODEL_PATH IMAGE_TEST_FILE TOP-K
 ```
-Ensure that the .BIN file (class list) is in the same directory as the model so that it can be loaded into the script.
+To have the script automatically load the .bin file, use the same model name and ensure that the .bin file (class list) is in the same directory as the model.
 
 Example _Top-5_:
 ```python
