@@ -1,5 +1,5 @@
 # EfficientNet Models on PlantCLEF2018 200 Flower Dataset
-### Repository of CNN models based on EfficientNet Architectures Family
+### Repository of CNN models based on EfficientNet Family of Architectures 
 
 We share the pre-trained EfficientNet models as research support in a subset of PlantCLEF2018 dataset.
 
