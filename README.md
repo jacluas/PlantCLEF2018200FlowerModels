@@ -2,7 +2,7 @@
 ### Repo of CNN models based on EfficientNet Architectures Family
 ### Models trained on a subset of flowering plant species of PlantCLEF2018 dataset
 
-We share the pre-trained EfficientNet models as research support in a subset of PlantCLEF2018 dataset. We created a subset of 200 classes, focusing on the most common flowering plant species on the dataset. 
+We share the pre-trained EfficientNet models as research support in a subset of PlantCLEF2018 dataset. We created a subset of 200 classes, focusing on the most frequent flowering plant species on the dataset. 
 
 We believe that this models may be a good starting point for future research in flower identification. 
 
