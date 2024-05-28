@@ -19,6 +19,21 @@ The EfficientNet models reports the percentage of correct responses within the _
 You can evaluate a sample image by performing the following:
 
 ```python
-python predict.py MODEL_NAME.h5 IMAGE_TEST_PATCH TOP-K
+python predict.py MODEL_NAME MODEL_PATH IMAGE_TEST_FILE TOP-K
+```
+Ensure that the .BIN file (class list) is in the same directory as the model so that it can be loaded into the script.
+
+Example _Top-5_:
+```python
+python predict.py efficientNetB0 /efficientNetB0PC/efficientNetB0PC /images/test/16730-Flower/197417.jpg -TopK 5
+
+Predictions:
+16730-Flower,	0.20647123456001282
+44075-Flower,	0.1315551996231079
+15859-Flower,	0.11214502155780792
+152966-Flower,	0.07080081105232239
+185502-Flower,	0.021940113976597786
+
+
 ```
 
