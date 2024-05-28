@@ -1,14 +1,17 @@
-# PlantCLEF2018 200 Flower Models
+# EfficientNet Models on PlantCLEF2018 200 Flower Dataset
 ### Repository of CNN models based on EfficientNet Architectures Family
-### Models trained on a subset of flowering plant species of PlantCLEF2018 dataset
 
-We share the pre-trained EfficientNet models as research support in a subset of PlantCLEF2018 dataset. We created a subset of 200 classes, focusing on the most frequent flowering plant species on the dataset. 
+We share the pre-trained EfficientNet models as research support in a subset of PlantCLEF2018 dataset.
 
 The EfficientNet Models were trained using transfer learning from pre-trained models on ImageNet 2012.
 
 Models can be found here: [https://github.com/jacluas/PlantCLEF2018200FlowerModels/releases/tag/Release]
 
 #### We believe that these models may be a good starting point for _transfer learning_ in future research on flower identification.
+
+### Models trained on a subset of flowering plant species of PlantCLEF2018 dataset
+
+We created a subset of 200 classes, focusing on the most frequent flowering plant species on the PlantCLEF2018 dataset. 
 
 ### How to consume the pre-trained EfficientNet models (from PlantCLEF 2018 200 Flower dataset)
 
