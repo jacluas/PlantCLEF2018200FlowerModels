@@ -15,7 +15,7 @@ We created a subset of 200 classes, focusing on the most frequent flowering plan
 
 ### How to consume the EfficientNet models (from PlantCLEF 2018 200 Flower dataset)
 
-We used Keras version 2.6, with Tensorflow 2.6 as backend, Python version 3.9, along with CUDA Toolkit version 11.0. 
+We used Keras version 2.6, with Tensorflow 2.6 as backend, Python 3.6, along with CUDA Toolkit version 11.0. 
 
 The EfficientNet models report the percentage of correct responses within the _Top-K_ highest-ranked predictions generated.
 
